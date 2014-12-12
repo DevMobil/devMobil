@@ -1,4 +1,0 @@
-devMobil
-========
-
-android
